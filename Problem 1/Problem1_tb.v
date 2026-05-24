@@ -24,7 +24,7 @@ module FSM_tb();
 
         //testing, do the exact SAME as the document example
 
-        #13 INPUT = 1'b1;
+        #14 INPUT = 1'b1;
         #20 INPUT = 1'b0;
         #20 INPUT = 1'b1;
         #10 INPUT = 1'b0;
